@@ -1,8 +1,8 @@
 // Mock data for ECR Assistant - to be replaced by backend API later
 
 export const mockUser = {
-  name: "Shreya",
-  initial: "S",
+  name: "Anu",
+  initial: "A",
 };
 
 export const mockEcrDatabase = {
